@@ -15,3 +15,5 @@ I'm learning Git and version control to track my work.
 - Branches let you experiment without affecting the main project
 - You can merge branches back together when ready
 
+# this is something new 
+- trying to learn git from tredytech on YT
